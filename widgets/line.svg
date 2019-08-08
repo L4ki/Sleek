@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="60"
-   height="60"
+   width="47"
+   height="45"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -19,7 +19,8 @@
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="arrow-up.png"
    inkscape:export-xdpi="11.25"
-   inkscape:export-ydpi="11.25">
+   inkscape:export-ydpi="11.25"
+   viewBox="0 0 47 45">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,11 +29,11 @@
      gridtolerance="10000"
      guidetolerance="10"
      objecttolerance="10"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.2765682"
-     inkscape:cx="32.193369"
-     inkscape:cy="32.257607"
+     inkscape:zoom="14.971407"
+     inkscape:cx="10.632244"
+     inkscape:cy="23.439705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
@@ -43,54 +44,80 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     inkscape:pagecheckerboard="false">
     <inkscape:grid
-       snapvisiblegridlinesonly="true"
-       id="GridFromPre046Settings"
-       type="xygrid"
-       originx="0"
-       originy="0"
-       spacingx="1"
-       spacingy="1"
-       color="#0000ff"
-       empcolor="#0000ff"
-       opacity="0.2"
-       empopacity="0.4"
-       empspacing="2"
+       enabled="true"
        visible="true"
-       enabled="true" />
+       empspacing="2"
+       empopacity="0.01960784"
+       opacity="0.01960784"
+       empcolor="#0101ff"
+       color="#0000ff"
+       spacingy="2px"
+       spacingx="2px"
+       originy="-69"
+       originx="-28"
+       type="xygrid"
+       id="GridFromPre046Settings"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <inkscape:perspective
-       id="perspective28"
-       inkscape:persp3d-origin="64 : 42.666667 : 1"
-       inkscape:vp_z="128 : 64 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 64 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       id="linearGradient4213">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop4215" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop4217" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3272">
-      <stop
-         id="stop3274"
-         offset="0"
-         style="stop-color:white;stop-opacity:1;" />
-      <stop
-         id="stop3276"
-         offset="1"
-         style="stop-color:white;stop-opacity:0;" />
-    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        
+        stop-
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        
+        stop-
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        
+        stop-
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      </style>
   </defs>
   <metadata
      id="metadata7">
@@ -105,44 +132,64 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-68)"
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1"
+     transform="translate(-28,-14)">
     <g
        id="horizontal-line">
       <rect
-         style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649655;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4209"
-         width="40"
-         height="1"
-         x="12"
-         y="118.46101" />
+         y="53.699989"
+         x="36"
+         height="0.30000001"
+         width="32"
+         id="rect831"
+         class="ColorScheme-Text"
+         style="opacity:1;fill:#50bad0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         y="117.5"
-         x="12"
+         style="opacity:1;fill:none;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:1.78699994;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         class="ColorScheme-Highlight"
+         id="rect822"
+         width="32"
          height="1"
-         width="40"
-         id="rect2706"
-         style="opacity:0.6;fill:#50bad0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649661;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         x="36"
+         y="52" />
+      <rect
+         y="54"
+         x="36"
+         height="1"
+         width="32"
+         id="rect824"
+         class="ColorScheme-Highlight"
+         style="opacity:1;fill:none;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:1.78699994;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="vertical-line"
-       transform="matrix(0,-1,1,0,-110.5,126.5)">
+       transform="rotate(90,63,43)">
       <rect
-         style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649661;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4209-1"
-         width="40"
-         height="1"
-         x="12"
-         y="117.9" />
+         style="opacity:1;fill:#50bad0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         class="ColorScheme-Text"
+         id="rect833"
+         width="32"
+         height="0.30000001"
+         x="35.999996"
+         y="53.699989" />
       <rect
-         y="117"
-         x="12"
+         y="52"
+         x="36"
          height="1"
-         width="40"
-         id="rect2706-2"
-         style="opacity:0.6;fill:#50bad0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649661;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         width="32"
+         id="rect835"
+         class="ColorScheme-Highlight"
+         style="opacity:1;fill:none;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:1.78699994;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:1.78699994;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         class="ColorScheme-Highlight"
+         id="rect837"
+         width="32"
+         height="1"
+         x="36"
+         y="54" />
     </g>
   </g>
 </svg>
